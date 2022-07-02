@@ -64,7 +64,7 @@ Translates to HTML:
 </a>
 ```
 And even translates to Markdown:
-```md
+```markdown
 # Welcome To My Community!
 This community is really epic!
 [Click here to join!](https://discord.gg/invite-link)
